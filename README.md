@@ -1,9 +1,7 @@
-# Resume
+# Portfolio
 
-<img width = "250dp" height = "250dp" src="images/IMG_20190420_104422_265.png?raw=true"/>
- <title>Portfolio of Md.Khalilur Rahman</title>
-logo: "images/profile_photo_circle.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+<img width = "250dp" height = "250dp" src="images/IMG_20190420_104422_265.png?raw=true" />
+  Md.Khalilur Rahman
   Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films.
   <br><br>
   <br><br>
