@@ -1,6 +1,6 @@
 # Resume
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IMG_20190420_104422_265.png?raw=true"/>
  <title>Portfolio of Md.Khalilur Rahman</title>
 logo: "images/profile_photo_circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
