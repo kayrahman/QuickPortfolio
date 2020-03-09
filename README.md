@@ -2,12 +2,14 @@
 
 <p align="center">
   <img width = "150dp" height = "150dp" src="images/IMG_20190420_104422_265.png?raw=true" />
-  <h3 style="width:50%; > Md.Khalilur Rahman </h3>
-              Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films.
 </p>
+             
+             <p align="center">
+             <h3 style="width:50%; > Md.Khalilur Rahman </h3>
+             </p>
 
 
-
+   Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films.
 <!DOCTYPE html>
 <html>
 <head>
