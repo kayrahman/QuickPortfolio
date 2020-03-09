@@ -1,15 +1,16 @@
 
+
+<p align="center">
+  <img width = "150dp" height = "150dp" src="images/IMG_20190420_104422_265.png?raw=true" />
+</p>
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+
 </head>
 <body>
 
