@@ -1,6 +1,6 @@
 # Resume
 
-title: Khalilur Rahman # your name (or website title) here
+ <title>Portfolio of Md.Khalilur Rahman</title>
 logo: "images/profile_photo_circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films.
