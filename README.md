@@ -12,9 +12,13 @@
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 
+
+<html>
 <p align="center">
  <video width="300" height="450" controls preload> 
     <source src="images/justory/Justory.mp4"></source>
    <source src="images/justory/Justory.mp4"></source>
 </video>
 </p>
+
+</html>
