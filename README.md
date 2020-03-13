@@ -17,7 +17,8 @@
   <body>
 <p align="center">
  <video width="300" height="450" controls> 
-    <source src="images/justory/Justory.mp4"></source>
+    <source src="images/justory/Justory.mp4" type="video/mp4>
+   </source>
   
 </video>
 </p>
