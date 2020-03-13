@@ -21,6 +21,10 @@
    </source>
   
 </video>
+
+<p align="center">
+  <img width = "150dp" height = "150dp" src="images/justory/1.jpeg?raw=true" />
+</p>
 </p>
 
 </body>
