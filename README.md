@@ -16,10 +16,10 @@
 <html>
   <body>
 <p align="center">
- <img width="300" height="450" controls preload> 
+ <video width="300" height="450" controls> 
     <source src="images/justory/Justory.mp4"></source>
   
-</img>
+</video>
 </p>
 
 </body>
