@@ -5,7 +5,7 @@
 </p>
 
  <h2 align="center"> Md.Khalilur Rahman </h2>
- <h6 align="center"> Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films. </h6>
+ <h6 align="center"> Naturally curious and passionate Android Developer.  &nbsp;&nbsp;&nbsp;&nbsp; Loves traveling, Playing guitar, Hiking, Sports, Films. </h6>
  
  ## Android Projects
  
