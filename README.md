@@ -9,9 +9,7 @@
  
  # Android Projects
  
-  <p align="center">
- # Justory
-  </p>
+  <h3 align = "center"> Justory </h3>
  
  <p align="center">
   <img width = "220dp" height = "430dp" src="images/justory/1.jpeg?raw=true" />
