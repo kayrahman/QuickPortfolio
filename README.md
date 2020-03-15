@@ -14,9 +14,9 @@
   </p>
  
  <p align="center">
-  <img width = "250dp" height = "450dp" src="images/justory/1.jpeg?raw=true" />
+  <img width = "220dp" height = "430dp" src="images/justory/1.jpeg?raw=true" />
    <img width = "250dp" height = "450dp" src="images/justory/2.png?raw=true" />
-   <img width = "250dp" height = "450dp" src="images/justory/3.png?raw=true" />
+   <img width = "250dp" height = "450dp" margin = "10dp" src="images/justory/3.png?raw=true" />
    <img width = "250dp" height = "450dp" src="images/justory/4.png?raw=true" />
    <img width = "250dp" height = "450dp" src="images/justory/5.jpeg?raw=true" />
    <img width = "250dp" height = "450dp" src="images/justory/6.jpeg?raw=true" />
