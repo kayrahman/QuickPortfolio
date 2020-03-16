@@ -10,9 +10,9 @@
  <br><br>
  <h2 align = "center"> Android Projects</h2>
  
-                                          
- 
-  <h3 align = "left"> Justory </h3>
+                                       
+  <h3 align = "left"> Justory : </h3>
+  <br>
    
  <p align="center">
   <img width = "220dp" height = "430dp" src="images/justory/1.jpeg?raw=true" />
@@ -29,13 +29,15 @@
  
 </p>
 
-## Achievements:
+## About Justory:
 Developed an android social media application.
 January 2019 - October 2019
 
 Developed the Android project using Kotlin, debugged and maintained it in an excellent manner. (Please refer to reference).
 Implemented Google's latest library and guidelines on the project's execution: such as Android architecture components and MVVM architecture which are essential to build quality apps today. Was promoted to become Chief Product Officer due to my stronger design abilities in the team, and wasresponsible for the strategic planning for the product development.
 Provided production support through trouble shooting issues, proposing solutions, developing and testing fixes and migrated solutions for a more optimal performance.
+
+## Technology used:
 
  
              
