@@ -7,9 +7,10 @@
  <h2 align="center"> Md.Khalilur Rahman </h2>
  <h6 align="center"> Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films. </h6>
  
- ## Android Projects
  
-  <h3 align = "center"> Justory </h3>
+                                           ## Android Projects
+ 
+  <h3 align = "left"> Justory </h3>
    
  <p align="center">
   <img width = "220dp" height = "430dp" src="images/justory/1.jpeg?raw=true" />
