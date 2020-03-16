@@ -4,7 +4,7 @@
   <img width = "150dp" height = "150dp" src="images/IMG_20190420_104422_265.png?raw=true" />
 </p>
 
- <h2 align="center"> Md.Khalilur Rahman </h2>
+ <h1 align="center"> Md.Khalilur Rahman </h1>
  <h6 align="center"> Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films. </h6>
  
  <br><br>
@@ -30,14 +30,21 @@
 </p>
 
 #### About Justory:
-Developed an android social media application.
+Justory is a social media application.
 January 2019 - October 2019
 
+#### My Role: Chief Product Officer, Lead Android Developer
+
 Developed the Android project using Kotlin, debugged and maintained it in an excellent manner. (Please refer to reference).
-Implemented Google's latest library and guidelines on the project's execution: such as Android architecture components and MVVM architecture which are essential to build quality apps today. Was promoted to become Chief Product Officer due to my stronger design abilities in the team, and wasresponsible for the strategic planning for the product development.
+Implemented Google's latest library and guidelines on the project's execution: such as Android architecture components and MVVM architecture which are essential to build quality apps today. Was promoted to become Chief Product Officer due to my stronger design abilities in the team, and was responsible for the strategic planning for the product development.
 Provided production support through trouble shooting issues, proposing solutions, developing and testing fixes and migrated solutions for a more optimal performance.
 
 #### Technology used:
+  > Kotlin
+  > MVVM Architecture and Databinding.
+  > Rx java and Retrofit library.
+  > Picasso and Glide Library.
+  > Few other thrid party libraries.
 
  
              
