@@ -40,8 +40,8 @@ Implemented Google's latest library and guidelines on the project's execution: s
 Provided production support through trouble shooting issues, proposing solutions, developing and testing fixes and migrated solutions for a more optimal performance.
 
 #### Technology used:
-> Kotlin 
-<br>  > MVVM Architecture and Databinding.
+> Kotlin <br>
+> MVVM Architecture and Databinding.
 <br>  > Rx java and Retrofit library.
 <br> > Picasso and Glide Library.
 <br> > Few other thrid party libraries.
