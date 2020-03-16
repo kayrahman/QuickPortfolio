@@ -42,9 +42,9 @@ Provided production support through trouble shooting issues, proposing solutions
 #### Technology used:
 > Kotlin <br>
 > MVVM Architecture and Databinding.
-<br>  > Rx java and Retrofit library.
-<br> > Picasso and Glide Library.
-<br> > Few other thrid party libraries.
+> Rx java and Retrofit library.
+> Picasso and Glide Library.
+> Few other thrid party libraries.
 
  
              
