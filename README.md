@@ -74,8 +74,7 @@ Provided production support through trouble shooting issues, proposing solutions
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width = "220dp" height = "430dp" src="images/apollo/d3.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "220dp" height = "430dp" src="images/apollo/d4.png?raw=true" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 #### About Apollo Ride:
