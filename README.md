@@ -68,13 +68,13 @@ Provided production support through trouble shooting issues, proposing solutions
 
 #### Apollo Driver :
  <p align="center">
-  <img width = "220dp" height = "430dp" src="images/apollo/d1.jpeg?raw=true" />
+  <img width = "220dp" height = "430dp" src="images/apollo/d1.png?raw=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "220dp" height = "430dp" src="images/apollo/d2.jpeg?raw=true" />
+   <img width = "220dp" height = "430dp" src="images/apollo/d2.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "220dp" height = "430dp" src="images/apollo/d3.jpeg?raw=true" />
+   <img width = "220dp" height = "430dp" src="images/apollo/d3.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "220dp" height = "430dp" src="images/apollo/d4.jpeg?raw=true" />
+   <img width = "220dp" height = "430dp" src="images/apollo/d4.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
