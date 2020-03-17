@@ -52,7 +52,7 @@ Provided production support through trouble shooting issues, proposing solutions
   <br>
    
  <p align="center">
-  <img width = "220dp" height = "430dp" src="images/apollo/p/p1.jpeg?raw=true" />
+  <img width = "220dp" height = "430dp" src="images/apollo/p1.jpeg?raw=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width = "220dp" height = "430dp" src="images/justory/2.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
