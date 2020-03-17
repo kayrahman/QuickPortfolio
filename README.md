@@ -46,6 +46,41 @@ Provided production support through trouble shooting issues, proposing solutions
 > Picasso and Glide Library.<br>
 > Few other thrid party libraries.
 
+<br>
+
+ <h3 align = "left"> Apollo Ride : </h3>
+  <br>
+   
+ <p align="center">
+  <img width = "220dp" height = "430dp" src="images/justory/1.jpeg?raw=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/2.png?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/3.png?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/4.png?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/5.jpeg?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/6.jpeg?raw=true" />
+ 
+</p>
+
+#### About Apollo Ride:
+Apollo Ride is a ride sharing application.
+
+#### My Role: Sole Developer 
+
+The project is built on top of Java And Firebase Database, debugged and maintained it in an excellent manner.
+
+#### Technology used:
+> Java <br>
+> Firebase Database, Firebase Functions.<br>
+> Googele Signin and Phone number authentication.<br>
+> Googele Place Picker and Location Api.<br>
+> Picasso and Glide Library.<br>
+> Few other thrid party libraries.
+
  
              
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
