@@ -44,9 +44,11 @@
  </p>
  
  
- #### About Justory:
+ #### About Meyeti:
 Meyeti is an Android native e-commerce application.
 February 2020 - April 2020
+
+[Youtube demo](https://www.youtube.com/watch?v=6FgB6iat_f0)
 
  
  #### Technology used:
