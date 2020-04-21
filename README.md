@@ -140,10 +140,37 @@ The project is built on top of Java And Firebase Database, debugged and maintain
   
 </p>
 
+
+#### Employment History:
+
+#### Justory Technologies Sdn. Bhd. 
+January 2019 - December 2019
+Chief Product Officer,Lead Android Developer
+
+#### Achievements :
+> Developed an android social media application.
+> Developed the Android project using Kotlin , debugged and maintained it in an excellent manner. (Please refer to reference).
+> Implemented Google’s latest library and guidelines on the project’s execution: such as Android architecture components and MVVM architecture which are essential to build quality apps today.
+> Was promoted to become Chief Product Officer due to my stronger design abilities in the team, and was responsible for the strategic planning for the product development.
+> Provided production support through trouble shooting issues, proposing solutions, developing and testing fixes and migrated solutions for a more optimal performance.
+
+
+#### Treasure Enterprise
+Junior Android Developer
+May 2016 - May 2017
+
+Developed an android b2b e-commerce application to let users buy and sell things very efficiently.Used REST api's to connect with the database.
+
+
+#### Achievements:
+> Played the key role in writing application logic using Android SDK.
+> Was responsible for writing, developing, testing, deploying and enhancing the code.
+> Programmed with clean, modular, robust code using Java and XML with Android SDK platform. Integrated Facebook and other open source APIs within applications.
+> Responsible for designing the user interface and all designs pertaining an e-commerce app.
+> Learnt and implemented Retrofit and Rx java library to handle network calls within the application.
+
  
-             
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+   <a href="https://www.linkedin.com/in/khalilur-rahman-970108127/">View My LinkedIn Profile</a> 
+ 
+  
 
