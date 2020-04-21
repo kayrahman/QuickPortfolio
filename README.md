@@ -9,17 +9,21 @@
  
  
  <p align="center">
-  <img width = "100dp" height = "30dp" src="images/justory/1.jpeg?raw=true" />
+  <img width = "100dp" height = "30dp" src="images/Kotlin.png?raw=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/justory/2.png?raw=true" />
+   <img width = "100dp" height = "30dp" src="images/java.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/justory/3.png?raw=true" />
+   <img width = "100dp" height = "30dp" src="images/javascript.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/justory/4.png?raw=true" />
+   <img width = "100dp" height = "30dp" src="images/node.js.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/justory/5.jpeg?raw=true" />
+   <img width = "100dp" height = "30dp" src="images/firebase.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/justory/6.jpeg?raw=true" />
+   <img width = "100dp" height = "30dp" src="images/aspnet.png?raw=true" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "100dp" height = "30dp" src="images/html.png?raw=true" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "100dp" height = "30dp" src="images/css.png?raw=true" />
  
 </p>
 
