@@ -7,7 +7,7 @@
  <h1 align="center"> Md.Khalilur Rahman </h1>
  <h6 align="center"> Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films. </h6>
  
- <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+ <font color='red'>test blue color font</font>
  
  <br><br>
  <h2 align = "center"> Android Projects</h2>
