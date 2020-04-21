@@ -61,6 +61,7 @@ Justory is a social media application.
 January 2019 - October 2019
 
 [Google Play Store](https://play.google.com/store/apps/details?id=developer.justory.com.testkotlin)
+[Youtube demo](https://www.youtube.com/watch?v=hEXs4wzr-YQ&t=13s)
 
 
 #### My Role: Chief Product Officer, Lead Android Developer
