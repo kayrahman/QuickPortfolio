@@ -9,18 +9,29 @@
  
  <br><br>
  <h2 align = "center"> Android Projects</h2>
- 
-   <h3 align = "left"> Meyeti : </h3>
-  <br>
+ <h3 align = "left"> Meyeti : </h3><br>
    
-   
- <p align="center">
- 
+   <p align="center">
  ![001 meyeti_gif_google_signin](https://user-images.githubusercontent.com/16632235/79858314-0e63cd00-83f1-11ea-8ee4-414c11773515.gif)
 ![2 add_to_cart](https://user-images.githubusercontent.com/16632235/79858326-1459ae00-83f1-11ea-9aea-772f2e27d3cb.gif)
 ![3 product_listing_notification](https://user-images.githubusercontent.com/16632235/79858337-17ed3500-83f1-11ea-8342-75a9f3686d04.gif)
- 
  </p>
+ 
+ 
+ #### About Justory:
+Meyeti is an Android native e-commerce application.
+February 2020 - April 2020
+
+ 
+ #### Technology used:
+> Kotlin, Node.js <br>
+> MVVM Architecture and Databinding.<br>
+> Rx java and Retrofit library.<br>
+> Firebase firestore, Firebase Storage, Firebase Cloud functions.<br>
+> Picasso and Glide Library.<br>
+> Few other thrid party libraries.
+
+<br>
  
                                        
   <h3 align = "left"> Justory : </h3>
