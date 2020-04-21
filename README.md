@@ -143,7 +143,7 @@ The project is built on top of Java And Firebase Database, debugged and maintain
 
 ## Employment History:
 
-#### Justory Technologies Sdn. Bhd. 
+### Justory Technologies Sdn. Bhd. 
 January 2019 - December 2019
 Chief Product Officer,Lead Android Developer
 
@@ -155,7 +155,7 @@ Chief Product Officer,Lead Android Developer
 > Provided production support through trouble shooting issues, proposing solutions, developing and testing fixes and migrated solutions for a more optimal performance.<br>
 
 
-#### Treasure Enterprise
+### Treasure Enterprise
 Junior Android Developer
 May 2016 - May 2017
 
