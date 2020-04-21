@@ -9,21 +9,21 @@
  
  
  <p align="center">
-  <img width = "100dp" height = "30dp" src="images/Kotlin.png?raw=true" />
+  <img width = "100dp" height = "50dp" src="images/Kotlin.png?raw=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/java.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/java.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/javascript.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/javascript.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/node.js.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/node.js.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/firebase.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/firebase.png?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/aspnet.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/aspnet.png?raw=true" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/html.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/html.png?raw=true" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "100dp" height = "30dp" src="images/css.png?raw=true" />
+   <img width = "100dp" height = "50dp" src="images/css.png?raw=true" />
  
 </p>
 
