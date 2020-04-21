@@ -9,12 +9,16 @@
  
  <br><br>
  <h2 align = "center"> Android Projects</h2>
- <h3 align = "left"> Meyeti : </h3><br>
+ <h3 align = "left"> Meyeti : </h3>
+ <br>
+ 
  #### Meyeti:
    
    <p align="center">
   
- ![001 meyeti_gif_google_signin](https://user-images.githubusercontent.com/16632235/79858314-0e63cd00-83f1-11ea-8ee4-414c11773515.gif)     ![2 add_to_cart](https://user-images.githubusercontent.com/16632235/79858326-1459ae00-83f1-11ea-9aea-772f2e27d3cb.gif)     ![3 product_listing_notification](https://user-images.githubusercontent.com/16632235/79858337-17ed3500-83f1-11ea-8342-75a9f3686d04.gif)
+ ![001 meyeti_gif_google_signin](https://user-images.githubusercontent.com/16632235/79858314-0e63cd00-83f1-11ea-8ee4-414c11773515.gif) &nbsp; &nbsp; &nbsp;
+![2 add_to_cart](https://user-images.githubusercontent.com/16632235/79858326-1459ae00-83f1-11ea-9aea-772f2e27d3cb.gif)&nbsp;&nbsp;&nbsp;
+![3 product_listing_notification](https://user-images.githubusercontent.com/16632235/79858337-17ed3500-83f1-11ea-8342-75a9f3686d04.gif)
 
  </p>
  
