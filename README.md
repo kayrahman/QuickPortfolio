@@ -43,7 +43,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/message.jpeg?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/push_notificaiton.jpeg?raw=true" />
+   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/push_notification.jpeg?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
