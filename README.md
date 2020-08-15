@@ -33,6 +33,29 @@
  <h2 align = "center"> Android Projects</h2>
  <br>
  
+ 
+ ## BazarAno:
+   
+   <p align="center">
+  <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/WhatsApp Image 2020-08-13 at 18.23.06.jpeg?raw=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/2.png?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/3.png?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/4.png?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/5.jpeg?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/justory/6.jpeg?raw=true" />
+ 
+</p>
+ 
+ 
+ ###PlayStore
+  https://play.google.com/store/apps/details?id=com.nkr.bazarano
+ 
+ 
  ## Meyeti:
    
    <p align="center">
@@ -43,6 +66,8 @@
 
  </p>
  
+ 
+
  
  #### About Meyeti:
 Meyeti is an Android native e-commerce application.
