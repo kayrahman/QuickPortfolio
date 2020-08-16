@@ -35,8 +35,9 @@
  
  
  ## BazarAno:
- 
- https://github.com/kayrahman/Resume
+ BazarAno is an Android native e-commerce application.
+April 2020 - August 2020
+
    
    <p align="center">
   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/WhatsApp Image 2020-08-13 at 18.23.06.jpeg?raw=true" />
@@ -53,6 +54,23 @@
  
  ###PlayStore
   https://play.google.com/store/apps/details?id=com.nkr.bazarano
+  
+  #### My Role: Full Stack Android Developer
+
+Sole developer and ui ux designer for this native Android E-commerce application with a separate Admin App.
+The appliation is developed using Kotlin.
+Implemented MVVM architecture and databinding, followed Google's latest guidelines, used various third party libraries.
+To handle network calls took advantage of Retrofit along with Kotlin coroutines.
+Firebase Firestore is used as the the database. Firebase storage to store the files such as images and videos. Took advantage of Firebase cloud functions to send push notifications and various database triggers.
+Used typescript and node.js on the firebase cloud functions, CLI to upload the scripts into FIrebase.
+
+#### Technology used:
+> Kotlin <br>
+> MVVM Architecture and Databinding.<br>
+> Firebase Firestore, Storage, Cloud Functions.<br>
+> Kotlin Coroutines and Retrofit library.<br>
+> Picasso and Glide Library.<br>
+> Few other thrid party libraries.
  
  
  ## Meyeti:
