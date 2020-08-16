@@ -35,6 +35,8 @@
  
  
  ## BazarAno:
+ 
+ https://github.com/kayrahman/Resume
    
    <p align="center">
   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/WhatsApp Image 2020-08-13 at 18.23.06.jpeg?raw=true" />
