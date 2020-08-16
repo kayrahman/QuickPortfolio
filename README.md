@@ -106,10 +106,6 @@ February 2020 - April 2020
 Justory is a social media application.
 January 2019 - October 2019
 
-https://play.google.com/store/apps/details?id=developer.justory.com.testkotlin
-https://github.com/kayrahman
-https://www.linkedin.com/in/khalilur-rahman-970108127/
-
 
 [Google Play Store](https://play.google.com/store/apps/details?id=developer.justory.com.testkotlin)
 <br>
