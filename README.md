@@ -57,17 +57,13 @@ April 2020 - August 2020
     
 </p>
 
-
-
-> Or Contributors/People
-
 | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Category Search**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Wish List**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Cart**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Order List**</a> |
 | :---: |:---:| :---:|:---:|
 |<img width = "220dp" height = "430dp" src="images/bazarano_screenshots/CategorySearch.gif?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/wishlist.gif?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/Cart.gif?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/orderlist.gif?raw=true"/>| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
 
-| <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Category Search**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Wish List**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Cart**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Order List**</a> |
+| <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Post Product**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Messaging**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Push Notification**</a> | <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Order List**</a> |
 | :---: |:---:| :---:|:---:|
-|<img width = "220dp" height = "430dp" src="images/bazarano_screenshots/CategorySearch.gif?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/wishlist.gif?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/Cart.gif?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/orderlist.gif?raw=true"/>| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+<img width = "220dp" height = "430dp" src="images/bazarano_screenshots/PostTrimmed.gif?raw=true" /> |  <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/message.jpeg?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/push_notification.jpeg?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/orderlist.gif?raw=true"/>| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
  
  
  ###PlayStore
