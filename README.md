@@ -41,31 +41,29 @@ April 2020 - August 2020
    
    <p align="center">
  
- <p>
     <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/CategorySearch.gif?raw=true" />
-  </p>&nbsp;&nbsp;&nbsp;&nbsp;
-  <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/wishlist.gif?raw=true" />
-  </p>&nbsp;&nbsp;&nbsp;&nbsp;
-  <p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/Cart.gif?raw=true" />
-    </p>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-    <p align="center">
+   
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/orderlist.gif?raw=true" />
-      </p>
+     
    &nbsp;&nbsp;&nbsp;&nbsp;
-      <p align="center">
+      
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/PostTrimmed.gif?raw=true" />
-        </p>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-        <p align="center">
+      
+   &nbsp;&nbsp;&nbsp;&nbsp
+      
   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/message.jpeg?raw=true" />
-          </p>
+          
    &nbsp;&nbsp;&nbsp;&nbsp;
-          <p align="center">
+         
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/push_notification.jpeg?raw=true" />
-            </p>
+           
    &nbsp;&nbsp;&nbsp;&nbsp;
             
   
