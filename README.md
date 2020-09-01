@@ -42,7 +42,11 @@ April 2020 - August 2020
    <p align="center">
   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/CategorySearch.gif?raw=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/listing.jpeg?raw=true" />
+   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/wishlist.gif?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/Cart.gif?raw=true" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/orderlist.gif?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/message.jpeg?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
