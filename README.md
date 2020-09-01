@@ -40,10 +40,10 @@ April 2020 - August 2020
 
    
    <p align="center">
+  <p>
   <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/CategorySearch.gif?raw=true" />
-  <br>
- #### Category Search
-</br>
+    <br> Category Search </br>
+ </p>
   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/wishlist.gif?raw=true" />
    &nbsp;&nbsp;&nbsp;&nbsp;
