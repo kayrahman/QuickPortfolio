@@ -47,7 +47,7 @@ April 2020 - August 2020
 | :---: |:---:| :---:|
 <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/PostTrimmed.gif?raw=true" /> |  <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/message.jpeg?raw=true" /> | <img width = "220dp" height = "430dp" src="images/bazarano_screenshots/push_notification.jpeg?raw=true" /> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
  
- |Example|
+ |Example|Example|Example|
  | :---: |:---:| :---:|
  
   <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Download From Playstore**</a>
