@@ -150,8 +150,8 @@ Provided production support through trouble shooting issues, proposing solutions
 
   |<img width = "220dp" height = "430dp" src="images/apollo/p0.jpeg?raw=true" />|&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p1.jpeg?raw=true" />|&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p5.jpeg?raw=true" />
    | :---: |:---:| :---:|
-  |&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p2.jpeg?raw=true"/>|&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p3.jpeg?raw=true"/>|&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p4.jpeg?raw=true" />|
- | :---: |:---:|
+  |&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p2.jpeg?raw=true"/>|&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p3.jpeg?raw=true"/>|&nbsp;&nbsp;&nbsp;&nbsp;<img width = "220dp" height = "430dp" src="images/apollo/p4.jpeg?raw=true" />
+ 
 </p>
 
 #### Apollo Driver :
