@@ -5,7 +5,8 @@
 </p>
 
  <h1 align="center"> Md.Khalilur Rahman </h1>
- <h6 align="center"> Naturally curious and passionate Android Developer. Loves traveling, Playing guitar, Hiking, Sports, Films. Udacity's Android Kotlin Developer Nanodegree Certified. </h6>
+ <h6 align="center"> Naturally curious and passionate Android Developer. Loves travelling, Playing guitar, Hiking, Sports, Films. Udacity's Android Kotlin Developer Nanodegree Certified. </h6>
+  <a href="https://graduation.udacity.com/confirm/PGHSDXKD"> Check out my credential </a>
  
  <br>
  
