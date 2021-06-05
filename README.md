@@ -53,7 +53,7 @@ April 2020 - August 2020
  |Example|Example|Example|
  | :---: |:---:| :---:|
  
-  <a href="https://play.google.com/store/apps/details?id=com.nkr.bazarano" target="_blank">**Download From Playstore**</a>
+  <a href="https://play.google.com/store/apps/details?id=com.nkr.bazaranocustomer" target="_blank">**Download From Playstore**</a>
   
   #### My Role: Full Stack Android Developer
 
