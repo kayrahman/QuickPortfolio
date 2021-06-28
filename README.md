@@ -8,7 +8,7 @@
  <h6 align="center"> Naturally curious and passionate Android Developer. Loves travelling, Playing guitar, Hiking, Sports, Films. Udacity's Android Kotlin Developer Nanodegree Certified. </h6>
  
  
- <a href="https://graduation.udacity.com/confirm/PGHSDXKD">Check out my credential </a><br>
+ <a href="https://graduation.udacity.com/confirm/PGHSDXKD">Check out my Android Kotlin Developer Nanodegree credential </a><br>
  
  <br>
  
